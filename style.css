@@ -239,7 +239,7 @@ a{
 /* home start */
 .home{
     min-height: 100.5vh;                /* 100vh ekranda tam gözüken kısım, kaydırınca daha aşağı uzamasını istemiyoruz */
-    background: url(/images/img131.jpg) no-repeat;
+    background: url(images/img131.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: -14.5rem;
